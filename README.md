@@ -46,7 +46,7 @@ plt.plot(x,l)
 # print("Trend Equation : y=%d+%.2fx"%(a,b))
 ```
 ### B- POLYNOMIAL TREND ESTIMATION
-```
+```py
 ## Polynomial TRend EStimation 4th degree
 
 import numpy as np
